@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
 <h3 align="center">I'm João Paulo, a 40-year-old technical enthusiast who does web development.</h3>
 
+- 🔭 I’m currently working on [IFCE - Campus Canindé](https://ifce.edu.br/caninde)
+
+- 🌱 I’m currently learning **Ruby, Rails**
+
 # 💻 Tech Stacks
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -76,6 +80,10 @@
       alt="typescript" width="40" height="40"/>
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpstudioweb&label=Profile%20views&color=0e75b6&style=flat" alt="jpstudioweb" /></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpstudioweb&theme=dracula&show_icons=true&locale=en&layout=compact" alt="jpstudioweb" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jpstudioweb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="jpstudioweb" /></p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpstudioweb&layout=compact&hide=html" alt="jpstudioweb" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jpstudioweb&theme=dracula&show_icons=true&locale=en" alt="jpstudioweb" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpstudioweb&theme=dracula" alt="jpstudioweb" /></p>
