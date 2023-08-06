@@ -77,4 +77,5 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jpstudioweb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="jpstudioweb" /></p> | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpstudioweb&layout=compact&hide=html" alt="jpstudioweb" /></p> |
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jpstudioweb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="jpstudioweb" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpstudioweb&layout=compact&hide=html" alt="jpstudioweb" /></p>
