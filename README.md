@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">A passionate backend developer from Brazil.</h3>
+<h3 align="center">I'm João Paulo, a 40-year-old technical enthusiast who does web development.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stacks
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -76,3 +76,5 @@
       alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jpstudioweb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="jpstudioweb" /></p> | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpstudioweb&layout=compact&hide=html" alt="jpstudioweb" /></p> |
