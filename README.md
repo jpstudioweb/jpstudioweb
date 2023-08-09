@@ -82,8 +82,8 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpstudioweb&label=Profile%20views&color=0e75b6&style=flat" alt="jpstudioweb" /></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpstudioweb&theme=dracula&show_icons=true&locale=en&layout=compact" alt="jpstudioweb" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpstudioweb&theme=dracula&show_icons=true&locale=en&layout=compact" alt="jpstudioweb" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jpstudioweb&theme=dracula&show_icons=true&locale=en" alt="jpstudioweb" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpstudioweb&theme=dracula" alt="jpstudioweb" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jpstudioweb&theme=dracula" alt="jpstudioweb" /></p> -->
