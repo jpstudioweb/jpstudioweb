@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">I'm João Paulo, a 40-year-old technical enthusiast who does web development.</h3>
+<h3 align="center">A enthusiast who does web development.</h3>
 
 - 🔭 I’m currently working on [IFCE - Campus Canindé](https://ifce.edu.br/caninde)
 
-- 🌱 I’m currently learning **Ruby, Rails**
-
 # 💻 Tech Stacks
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
