@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm João Paulo</h1>
-<h3 align="center">A enthusiast who does web development.</h3>
+<h3 align="center">An enthusiast who does web development.</h3>
 
 - I’m currently working on [IFCE - Campus Canindé](https://ifce.edu.br/caninde)
 
@@ -36,4 +36,5 @@ width="40" height="40"/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpstudioweb&label=Profile%20views&color=0e75b6&style=flat" alt="jpstudioweb" /></p>
+  <br />
+  <p> <img src="https://komarev.com/ghpvc/?username=jpstudioweb&label=Profile%20views&color=0e75b6&style=flat" alt="jpstudioweb"/></p>
