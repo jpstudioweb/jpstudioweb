@@ -3,7 +3,7 @@
 
 - I’m currently working on [IFCE - Campus Canindé](https://ifce.edu.br/caninde)
 
-- Check out the software projects developed by us at[CTI-Canindé](https://cti.caninde.ifce.edu.br)
+- Check out the software projects developed by us at [CTI-Canindé](https://cti.caninde.ifce.edu.br)
 
 # 💻 Tech Stacks
 
