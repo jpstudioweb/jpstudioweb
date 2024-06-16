@@ -5,6 +5,10 @@
 
 - Check out the software projects developed by us at [CTI - Canindé](https://cti.caninde.ifce.edu.br)
 
+- Follow my articles on [dev.to](https://dev.to/jpstudioweb)
+
+- Connect with me on [x.com](https://x.com/jpstudioweb)
+
 # 💻 Tech Stacks
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
