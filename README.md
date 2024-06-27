@@ -9,6 +9,8 @@
 
 - Connect with me on [x.com](https://x.com/jpstudioweb)
 
+- Join the Elixir User Group Ceará - Brazil [Elug-CE](https://github.com/elug-ce)
+
 # 💻 Tech Stacks
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
