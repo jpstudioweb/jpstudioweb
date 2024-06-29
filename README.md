@@ -5,9 +5,9 @@
 
 - Check out the software projects developed by us at [CTI - Canindé](https://cti.caninde.ifce.edu.br)
 
-- Follow my articles on [dev.to](https://dev.to/jpstudioweb)
+- Follow my articles on [dev.to](https://dev.to/abreujp)
 
-- Connect with me on [x.com](https://x.com/jpstudioweb)
+- Connect with me on [x.com](https://x.com/abreujp9)
 
 - Join the Elixir User Group Ceará - Brazil [Elug-CE](https://github.com/elug-ce)
 
