@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Paulo</h1>
+<h1 align="center">Hi, I'm João Paulo Abreu</h1>
 <h3 align="center">An enthusiast who does web development.</h3>
 
 - I’m currently working on [IFCE - Campus Canindé](https://ifce.edu.br/caninde)
