@@ -20,11 +20,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="phoenix" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </div>
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abreujp&show_icons=true&theme=nord)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abreujp&theme=nord)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abreujp&theme=nord)](https://github.com/abreujp/github-profile-trophy)
-
